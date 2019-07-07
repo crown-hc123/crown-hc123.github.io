@@ -1,0 +1,18 @@
+Domain: crownhealthcentre.com
+
+Control Panel link: https://admin.1and1.com 
+
+Customer ID: 17427694
+Your master password is:  crownhealth
+URL   : https://registrar.1and1.info/wdrp/osalw4e4
+
+-----------------------
+FTP info:
+User name: u48884420
+
+Password: kelvincrownhealth
+
+Description : Admin
+
+Directory : /. 
+-----------------------
